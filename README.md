@@ -1,2 +1,2 @@
 # Checkers game
-Checkers game implemented using Cosmos SDK
+Checkers game implemented using Cosmos SDK.
